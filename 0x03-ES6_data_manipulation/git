@@ -1,4 +1,4 @@
 git add .
 git commit -m 'the tasks are all GOOD'
 git push
-cat'✨😍😍✨👨💻✅👌'
+echo ✨😍😍✨👨💻✅👌
